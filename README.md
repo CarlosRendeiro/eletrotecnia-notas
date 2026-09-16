@@ -1,12 +1,13 @@
-# PYTON — Notas de Estudo
+# ⚡ Eletrotecnia (E) — Notas de Estudo
 
-Repositório de acompanhamento do eixo **PYTHON** dentro do meu percurso de
-formação em Cartografia e Eletrotecnia (CTeSP → Engenharia/OET).
+Repositório de acompanhamento da Unidade Curricular de **Eletrotecnia (E)** dentro do meu percurso no CTeSP na ESTGA / Universidade de Aveiro.
 
-- `topicos.md` — checklist de tópicos a estudar (gerido via Telegram)
-- `diario.md` — registo datado do que foi estudado e revisado
+---
 
-Este repositório é atualizado automaticamente pelo meu agente pessoal de
-estudos, que aplica repetição espaçada para revisão.
+## 📌 Estrutura do Repositório
 
-Veja o perfil geral em [`CarlosRendeiro`](https://github.com/CarlosRendeiro).
+---
+
+🤖 *Este repositório é atualizado automaticamente pelo meu **Agente Pessoal de Estudos** via GitHub Actions, aplicando algoritmos de repetição espaçada e blindagem de rotina.*
+
+🔗 *Perfil e panorama geral:* [@CarlosRendeiro](https://github.com/CarlosRendeiro)
