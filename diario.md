@@ -1,1 +1,1 @@
-# Diário de progresso — Python
+# Diário de progresso — Eletrotecnia
